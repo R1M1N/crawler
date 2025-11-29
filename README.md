@@ -376,15 +376,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Sentence Transformers](https://www.sbert.net/) for embeddings
 - [FastAPI](https://fastapi.tiangolo.com/) for the web API
 
-## 📞 Support
-
-- 📧 Email: support@example.com
-- 💬 Discord: [Join our community](https://discord.gg/example)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/universal-web-scraper/issues)
-- 📖 Docs: [Documentation](https://universal-web-scraper.readthedocs.io/)
-
----
-
-**Made with ❤️ by the MiniMax Agent team**
-
-*Empowering developers to build better web scraping solutions*
