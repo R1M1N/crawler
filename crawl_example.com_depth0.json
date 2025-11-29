@@ -1,0 +1,57 @@
+{
+  "summary": {
+    "start_url": "https://example.com",
+    "max_depth_reached": 0,
+    "total_pages_crawled": 1,
+    "successful_pages": 1,
+    "failed_pages": 0,
+    "total_links_discovered": 1,
+    "duration_seconds": 0.973596,
+    "crawl_started": "2025-11-27T19:28:28.792318",
+    "crawl_completed": "2025-11-27T19:28:29.765914"
+  },
+  "results_by_depth": {
+    "0": [
+      {
+        "url": "https://example.com",
+        "title": "Example Domain",
+        "depth": 0,
+        "links_found": 1,
+        "timestamp": "2025-11-27T19:28:29.742228",
+        "links": [
+          {
+            "url": "https://iana.org/domains/example",
+            "text": "Learn more",
+            "title": "",
+            "source_page": "https://example.com"
+          }
+        ]
+      }
+    ]
+  },
+  "all_results": [
+    {
+      "url": "https://example.com",
+      "title": "Example Domain",
+      "depth": 0,
+      "links_found": 1,
+      "timestamp": "2025-11-27T19:28:29.742228",
+      "links": [
+        {
+          "url": "https://iana.org/domains/example",
+          "text": "Learn more",
+          "title": "",
+          "source_page": "https://example.com"
+        }
+      ]
+    }
+  ],
+  "all_links": [
+    {
+      "url": "https://iana.org/domains/example",
+      "text": "Learn more",
+      "title": "",
+      "source_page": "https://example.com"
+    }
+  ]
+}

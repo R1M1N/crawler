@@ -1,0 +1,30 @@
+# Core scraping and crawling
+playwright>=1.40.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+requests>=2.31.0
+readability-lxml>=0.8.1
+markdown>=3.5.1
+
+# AI/ML libraries  
+torch>=2.1.0
+transformers>=4.35.2
+sentence-transformers>=2.2.2
+numpy>=1.24.3
+
+# Vector database
+chromadb>=0.4.18
+
+# NLP processing
+nltk>=3.8.1
+
+# Utilities
+python-dotenv>=1.0.0
+click>=8.1.7
+fastapi>=0.104.1
+uvicorn>=0.24.0
+httpx>=0.25.2
+aiofiles>=23.2.1
+
+# Development
+pytest>=7.4.3
