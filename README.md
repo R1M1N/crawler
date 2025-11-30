@@ -316,9 +316,6 @@ async with TranscriptionProcessor() as transcriber:
 - Use appropriate chunk sizes for RAG
 - Clean up temporary files regularly
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ### Development Setup
 
@@ -362,10 +359,6 @@ Benchmarks against similar tools:
 - Secure storage of scraped data
 - Rate limiting prevents abuse
 - No execution of remote code
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
